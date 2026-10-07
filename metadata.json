@@ -1,0 +1,6 @@
+{
+  "name": "PrepPulse: AI Study & Exam-Prep Assistant",
+  "description": "Turn your lecture notes into verified flashcards, interactive quizzes, and day-by-day exam schedules in under a minute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
